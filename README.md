@@ -13,3 +13,5 @@ The last operating system i am going to talk about it security. We use our compu
 information secure and out of the reach of other people. There are alot of bad people out there that look to prey on people with lack of knoledge and unfortunitly thats world wide
 but credit card fraud and virtual fraud is very high risk situation. many people i know dont pay for extra security on their computer and ive been going back and fourth with if i shoulf
 pay for some on mine or not. You can break through people fire walls and re route your IP address if your an attacker so you should make your self knoledgable on how to protect your infomation.
+
+commit 0eb3ba69db19907b81a2c459f6ae11b69d747f81
